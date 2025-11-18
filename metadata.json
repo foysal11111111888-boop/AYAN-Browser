@@ -1,0 +1,5 @@
+{
+  "name": "AYAN Browser",
+  "description": "A lightweight, mobile-first browser-like web application with customizable quick links, bookmarks, history, and theme support.",
+  "requestFramePermissions": []
+}
